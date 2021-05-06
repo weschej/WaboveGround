@@ -1,4 +1,4 @@
-# WaboveGround
+# Welcome to the WaboveGround wiki!
 WaboveGround in its simplest form, is a compact sensor array used for collecting meteorological data and storing that data to a file on a microSD card.
 
 <img src="https://user-images.githubusercontent.com/83726389/117233123-80d2ff80-adf0-11eb-8978-40fb2ffe193a.jpg" width="480">
@@ -154,3 +154,8 @@ This section will analyze the findings from this endeavor along with the limits 
 These components will work in any normal operating conditions and should be reliable. One of the main concerns when dealing with any electronics is dust prevention. This system does not currently have a method of controlling dust buildup, so a clean environment would increase the longevity of this product. 
 
 This system functioned without failure throughout all of the trials our team put it through. It reliably logged temperature, pressure, and relative humidity to the storage device countless times. 
+
+# Testing Results
+A small sample of data is included below where the sensors were pressed with a finger to vary the readings. The current sampling interval is 1 second, so each data entry corresponds to 1 second. The data clearly shows the time that the finger was introduced. All 3 of the measured quantities changed. This proves the basic functionality of the system.
+
+![Screenshot (170)](https://user-images.githubusercontent.com/83726389/117236191-3a809f00-adf6-11eb-94dc-bf0d39868fc2.png)
