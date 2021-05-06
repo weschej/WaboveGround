@@ -153,4 +153,4 @@ This section will analyze the findings from this endeavor along with the limits 
 
 These components will work in any normal operating conditions and should be reliable. One of the main concerns when dealing with any electronics is dust prevention. This system does not currently have a method of controlling dust buildup, so a clean environment would increase the longevity of this product. 
 
-This system functioned without failure throughout all of the trials our team put it through. It reliably logged temperature, pressure, and relative humidity to the storage device countless times. 
+This system functioned without failure throughout all of the trials our team put it through. It reliably logged temperature, pressure, and relative humidity to the storage device countless times.  
