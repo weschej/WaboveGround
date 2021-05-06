@@ -1,4 +1,4 @@
-# Welcome to the WaboveGround wiki!
+# WaboveGround
 WaboveGround in its simplest form, is a compact sensor array used for collecting meteorological data and storing that data to a file on a microSD card.
 
 <img src="https://user-images.githubusercontent.com/83726389/117233123-80d2ff80-adf0-11eb-8978-40fb2ffe193a.jpg" width="480">
