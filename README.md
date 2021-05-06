@@ -159,3 +159,8 @@ This system functioned without failure throughout all of the trials our team put
 A small sample of data is included below where the sensors were pressed with a finger to vary the readings. The current sampling interval is 1 second, so each data entry corresponds to 1 second. The data clearly shows the time that the finger was introduced. All 3 of the measured quantities changed. This proves the basic functionality of the system.
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/83726389/117236191-3a809f00-adf6-11eb-94dc-bf0d39868fc2.png)
+
+# The Future
+The main goal of WaboveGround lies in improving the core functionality of this product. Currently, there is just a slide switch to pause the data logging process. In the not so distant future, a reset button will be added which will entirely remove the need to clear the logging file. Another point of improvement will be the implementation of an "on/off" switch. This will allow for the Arduino to remain plugged in without the loop executing. 
+
+Additionally, more sensors could be added to further expand on the capabilities. For example, a lux sensor could be integrated allowing the system to record cloud coverage. The possibilities are endless, and our team hopes to continue to support this excellent product.
